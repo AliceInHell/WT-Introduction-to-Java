@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c87361ea-9cc2-43cb-ae35-e41393841e52" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-402784800">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-468899808">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.55" value="3" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.68" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="174" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="174" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="17" />
+          <entry key="java" value="11561" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="11561" />
+          <entry key="PLAIN_TEXT" value="17" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task1/Runner/FirstTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/by/bsuir/makarchik/task2/Localizer/LocalizerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+              <folding>
+                <element signature="e#233#234#0" expanded="true" />
+                <element signature="e#294#295#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#392#393#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task2/Localizer/Localizer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task2/Point/Point.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task12/Book.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="49" column="5" lean-forward="true" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+              <folding>
+                <element signature="method#equals#0;class#Book#0" />
+                <element signature="method#toString#0;class#Book#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task13/ProgrammerBook.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#equals#0;class#ProgrammerBook#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task2/Locate.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task2/Localizer.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task2/SecondTask.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task3/TableBuilder.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task3/TgFunction.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task3/ThirdTask.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task4/PrimeNumberClass.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task4/PrimeNumber.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task4/FourthTask.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/Task5/FifthTask.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task4/Runner/FourthTask.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task5/Array/Array.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/ConsoleScanner/ConsoleScanner.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task7/Runner/SeventhTask.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task7/ShellSort/ShellSort.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task8/Runner/EighthTask.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task9/Runner/Ninth.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task14/Book.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task16/BookAuthorComparator/BookAuthorComparator.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task16/BookPriceComparator/BookPriceComparator.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task16/BooTitleComparator/BookTitleComparator.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/Array/Array.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task6/FillMatrix/FillMatrix.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task6/Runner/SixthTask.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task5/Runner/FifthTask.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task5/Sequence/Sequence.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task1/Formula/FormulaTest.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task1/Runner/FirstTask.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/makarchik/task1/Runner/FirstTaskTest.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task2/Point/Point.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task9/Ball/Ball.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task9/Basket/Basket.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task1/Formula/Formula.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/makarchik/task2/Localizer/LocalizerTest.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/makarchik/task4/PrimeNumber/PrimeNumberTest.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/makarchik/task1/Formula/FormulaTest.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/makarchik/task3/TgFunction/TgFunctionTest.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/makarchik/task5/Sequence/SequenceTest.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/makarchik/task6/FillMatrix/FillMatrixTest.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/makarchik/task7/ShellSort/ShellSortTest.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task3/TableBuilder/TableBuilder.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task3/Runner/ThirdTask.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/makarchik/task3/TableBuilder/TableBuilderTest.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task8/SequenceMerger/SequenceMerger.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/makarchik/task8/SequenceMerger/SequenceMergerTest.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/makarchik/task9/Basket/BasketTest.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/makarchik/task12/BookTest.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/makarchik/task16/BookComparatorTest.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task2/Localizer/Localizer.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task12/Book.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/makarchik/task13/ProgrammerBook.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="1004" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="makarchik" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="project settings&#9;ACTION&#9;ProjectViewPopupMenuSettingsGroup&#10;artifacts&#9;PSI&#9;JAVA://com.sun.tools.sjavac.Package#artifacts" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539206134039" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="by.bsuir.makarchik.task3.TableBuilder" />
+      <recent name="by.bsuir.makarchik.task16" />
+      <recent name="by.bsuir.makarchik.task12" />
+      <recent name="by.bsuir.makarchik.task9.Basket" />
+      <recent name="by.bsuir.makarchik.task8.SequenceMerger" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.BookComparatorTest">
+    <configuration name="BookComparatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bsuir.makarchik.task16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.bsuir.makarchik.task16" />
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.makarchik.task16.BookComparatorTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookComparatorTest.sortByTitleAndAuthor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bsuir.makarchik.task16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.bsuir.makarchik.task16" />
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.makarchik.task16.BookComparatorTest" />
+      <option name="METHOD_NAME" value="sortByTitleAndAuthor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookComparatorTest.sortByTitleAuthorAndPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bsuir.makarchik.task16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.bsuir.makarchik.task16" />
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.makarchik.task16.BookComparatorTest" />
+      <option name="METHOD_NAME" value="sortByTitleAuthorAndPrice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookComparatorTest.sortByTitleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bsuir.makarchik.task16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.bsuir.makarchik.task16" />
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.makarchik.task16.BookComparatorTest" />
+      <option name="METHOD_NAME" value="sortByTitleTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookTest.IComparableTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bsuir.makarchik.task12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.bsuir.makarchik.task12" />
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.makarchik.task12.BookTest" />
+      <option name="METHOD_NAME" value="IComparableTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.BookTest.IComparableTest" />
+      <item itemvalue="JUnit.BookComparatorTest.sortByTitleTest" />
+      <item itemvalue="JUnit.BookComparatorTest.sortByTitleAndAuthor" />
+      <item itemvalue="JUnit.BookComparatorTest.sortByTitleAuthorAndPrice" />
+      <item itemvalue="JUnit.BookComparatorTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BookComparatorTest" />
+        <item itemvalue="JUnit.BookComparatorTest.sortByTitleAuthorAndPrice" />
+        <item itemvalue="JUnit.BookComparatorTest.sortByTitleAndAuthor" />
+        <item itemvalue="JUnit.BookComparatorTest.sortByTitleTest" />
+        <item itemvalue="JUnit.BookTest.IComparableTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c87361ea-9cc2-43cb-ae35-e41393841e52" name="Default Changelist" comment="" />
+      <created>1537517067384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537517067384</updated>
+      <workItem from="1537517080209" duration="237000" />
+      <workItem from="1537517634311" duration="5476000" />
+      <workItem from="1537542006271" duration="3747000" />
+      <workItem from="1537619992911" duration="2598000" />
+      <workItem from="1537778536175" duration="17338000" />
+      <workItem from="1537985127569" duration="4535000" />
+      <workItem from="1538034653784" duration="5133000" />
+      <workItem from="1538045475012" duration="5706000" />
+      <workItem from="1538123983735" duration="11758000" />
+      <workItem from="1539205188883" duration="940000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BookTest_IComparableTest - 2018.09.28 at 13h 48m 17s.xml">
+      <configuration name="BookTest.IComparableTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookTest_IComparableTest - 2018.09.28 at 13h 52m 35s.xml">
+      <configuration name="BookTest.IComparableTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookComparatorTest_sortByTitleTest - 2018.09.28 at 14h 36m 19s.xml">
+      <configuration name="BookComparatorTest.sortByTitleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookComparatorTest_sortByTitleTest - 2018.09.28 at 14h 37m 09s.xml">
+      <configuration name="BookComparatorTest.sortByTitleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookComparatorTest_sortByTitleTest - 2018.09.28 at 14h 37m 40s.xml">
+      <configuration name="BookComparatorTest.sortByTitleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookComparatorTest_sortByTitleAndAuthor - 2018.09.28 at 14h 38m 52s.xml">
+      <configuration name="BookComparatorTest.sortByTitleAndAuthor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookComparatorTest_sortByTitleAndAuthor - 2018.09.28 at 14h 39m 47s.xml">
+      <configuration name="BookComparatorTest.sortByTitleAndAuthor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookComparatorTest_sortByTitleAuthorAndPrice - 2018.09.28 at 14h 41m 57s.xml">
+      <configuration name="BookComparatorTest.sortByTitleAuthorAndPrice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookComparatorTest - 2018.09.28 at 14h 47m 11s.xml">
+      <configuration name="BookComparatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookComparatorTest - 2018.09.28 at 14h 51m 34s.xml">
+      <configuration name="BookComparatorTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="57468000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27760968" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2262295" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3295082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/ConsoleOutputer/ConsoleOutputter.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/ConsoleOutputter/ConsoleOutputter.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/Task5.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task4/Runner/FourthTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task7/Runner/SeventhTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/ConsoleScanner/ConsoleScanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+          <folding>
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/jdk.compiler/com/sun/tools/sjavac/Package.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="156" column="19" selection-start-line="156" selection-start-column="19" selection-end-line="156" selection-end-column="19" />
+          <folding>
+            <element signature="e#5877#5878#0" expanded="true" />
+            <element signature="e#5913#5914#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task15/Book.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task14/Book.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task16/BookPriceComparator/BookPriceComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task16/BooTitleComparator/BookTitleComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task9/Runner/Ninth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/Array/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task1/Formula/FormulaTest.java" />
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/makarchik/task1/Runner/FirstTaskTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task2/Runner/SecondTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task7/ShellSort/ShellSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task4/PrimeNumber/PrimeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task9/Ball/Ball.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task1/Formula/Formula.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" column="114" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task5/Runner/FifthTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task5/Sequence/Sequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task6/Runner/SixthTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task6/FillMatrix/FillMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/makarchik/task3/TgFunction/TgFunctionTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task3/TgFunction/TgFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task3/TableBuilder/TableBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/makarchik/task8/SequenceMerger/SequenceMergerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="50" lean-forward="true" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task8/Runner/EighthTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task8/SequenceMerger/SequenceMerger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task3/Runner/ThirdTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="66" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/makarchik/task7/ShellSort/ShellSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="20" column="57" lean-forward="true" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="136" column="15" selection-start-line="136" selection-start-column="15" selection-end-line="136" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task9/Basket/Basket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/makarchik/task12/BookTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/makarchik/task5/Sequence/SequenceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/makarchik/task16/BookComparatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-799">
+          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/makarchik/task6/FillMatrix/FillMatrixTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task16/BookAuthorComparator/BookAuthorComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/makarchik/task9/Basket/BasketTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/makarchik/task1/Formula/FormulaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding>
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/makarchik/task3/TableBuilder/TableBuilderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="30" column="78" lean-forward="true" selection-start-line="30" selection-start-column="78" selection-end-line="30" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/makarchik/task4/PrimeNumber/PrimeNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding>
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task1/Runner/FirstTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/makarchik/task2/Localizer/LocalizerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding>
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task2/Localizer/Localizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task2/Point/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task12/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="49" column="5" lean-forward="true" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+          <folding>
+            <element signature="method#equals#0;class#Book#0" />
+            <element signature="method#toString#0;class#Book#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/makarchik/task13/ProgrammerBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#equals#0;class#ProgrammerBook#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>WT</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
