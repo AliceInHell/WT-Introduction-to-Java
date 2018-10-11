@@ -27,7 +27,7 @@ public class Basket {
     public int getBlueBallsCount(){
         int count = 0;
         for(Ball ball : _balls){
-            if(ball.getColor() == "blue")
+            if(ball.getColor().equals("blue"))
                 count += 1;
         }
         return count;

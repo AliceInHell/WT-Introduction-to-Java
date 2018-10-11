@@ -10,22 +10,28 @@ public class ProgrammerBook extends Book {
 
     @Override
     public boolean equals(Object obj) {
-        if(this == obj)
-            return true;
+        if(obj == null)
+            return false;
         else
-            if(obj instanceof ProgrammerBook)
-                return this.language.equals(((ProgrammerBook) obj).language) && this.level == ((ProgrammerBook) obj).level;
+            if(super.equals(obj))
+                if(this == obj)
+                    return true;
+                else
+                    if(obj instanceof ProgrammerBook)
+                        return this.language.equals(((ProgrammerBook) obj).language) && this.level == ((ProgrammerBook) obj).level;
+                    else
+                        return false;
             else
                 return false;
     }
 
     @Override
     public String toString(){
-        return "ProgrammerBook: " + this.language + " " + this.level;
+        return super.toString() + this.language + " " + this.level;
     }
 
     @Override
     public int hashCode(){
-        return Objects.hash(language, level);
+        return super.hashCode() + Objects.hash(language, level);
     }
 }

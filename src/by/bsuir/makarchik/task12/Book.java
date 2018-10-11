@@ -39,14 +39,17 @@ public class Book implements Cloneable, Comparable<Book>{
 
     @Override
     public boolean equals(Object obj) {
-        if(this == obj)
-            return true;
+        if(obj == null)
+            return false;
         else
-            if(obj instanceof Book)
-                return this.title.equals(((Book)obj).title) && this.author.equals(((Book)obj).author)
-                && this.price == ((Book)obj).price;
+            if(this == obj)
+                return true;
             else
-                return false;
+                if(obj instanceof Book)
+                    return this.title.equals(((Book)obj).title) && this.author.equals(((Book)obj).author)
+                    && this.price == ((Book)obj).price;
+                else
+                    return false;
     }
 
     @Override
@@ -56,7 +59,7 @@ public class Book implements Cloneable, Comparable<Book>{
 
     @Override
     public String toString() {
-        return "Book: " + this.title + " " + this.author + " " + this.price + " by " + Book.edition;
+        return this.getClass() + ": " + this.title + " " + this.author + " " + this.price + " by " + Book.edition;
     }
 
     @Override
